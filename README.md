@@ -2,7 +2,7 @@
 
 My name is **Muhammad Nabil**.<br>
 
-i am **Software Developer** nahdlatul ulama university.<br>
+i am **Software Developer** at nahdlatul ulama university.<br>
 i have been learning code for 2 years, the resource i used are udemy and dicoding.<br>
 and i have huge curiousity and competitive person,<br>
 
