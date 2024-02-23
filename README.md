@@ -2,21 +2,12 @@
 
 My name is **Muhammad Nabil**.<br>
 
-i am **Software Developer** at nahdlatul ulama university.<br>
+i am a self-taught **Software Developer**. i am currenly enroll IT major at nahdlatul ulama university.<br>
 i have been learning code for 2 years, the resource i used are udemy and dicoding.<br>
 and i have huge curiousity and competitive person,<br>
 
 if you interested my profile,please visit my [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
   
-   
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
-
 ### Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -27,3 +18,10 @@ if you interested my profile,please visit my [Linkedin](https://www.linkedin.com
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
