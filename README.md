@@ -3,10 +3,8 @@
 My name is **Muhammad Nabil**.<br>
 
 i am **Software Developer** nahdlatul ulama university.<br>
-i have been learning code for 2 years, the resource i used is udemy and dicoding.
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+i have been learning code for 2 years, the resource i used are udemy and dicoding.<br>
+and i have huge curiousity and competitive person,<br>
 
 if you interested my profile,please visit my [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
   
