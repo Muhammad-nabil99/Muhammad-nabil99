@@ -6,7 +6,7 @@ i am **Software Developer**. i enrolled IT major at nahdlatul ulama university.<
 i have been learning code for 2 years, the resource i used are udemy and dicoding.<br>
 and i have huge curiousity and competitive person,<br>
 
-if you interested my profile,please visit my [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
+if you interested my profile,please visit my [Linkedin](https://www.linkedin.com/in/muhammad-nabil-3960382b2/).
   
 ### Tech Stack
 
@@ -20,9 +20,4 @@ if you interested my profile,please visit my [Linkedin](https://www.linkedin.com
 ![Figma](https://figma)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+
