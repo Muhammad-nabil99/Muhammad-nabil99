@@ -3,7 +3,7 @@
 My name is **Muhammad Nabil**.<br>
 
 i am **Software Developer**. i enrolled IT major at nahdlatul ulama university.<br>
-i have been learning code for 2 years, the resource i used are udemy and dicoding.<br>
+i have been learning code for 2 years, the resources i use are udemy and dicoding.<br>
 and i have huge curiousity and competitive person,<br>
 
 if you interested my profile,please visit my [Linkedin](https://www.linkedin.com/in/muhammad-nabil-3960382b2/).
